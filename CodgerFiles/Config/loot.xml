@@ -1,0 +1,108 @@
+<CodgerFiles>
+
+
+
+<append xpath="/lootcontainers/lootgroup[@name='groupWeaponsT1_Melee']">
+	<item name="DakotasSledgehammer" prob="1.7" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='labEquipment']">
+	<item name="CopperPennies" count="40,100" prob="1.8" />
+	<item name="ZincTablets" count="40,100" prob="1.8" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupWeapons_RangedParts']">
+	<item name="DakotaPistolParts" prob="9.1" />
+	<item name="DakotaPistolReceiver" prob="9.1" />
+	<item name="DakotaPistolGrip" prob="9.1" />
+	<item name="DakotaPistolBarrel" prob="9.1" />
+	<item name="OldCootParts" prob="9.1" />
+	<item name="OldCootBolt" prob="9.1" />
+	<item name="OldCootStock" prob="9.1" />
+	<item name="OldCootBarrel" prob="9.1" />
+	<item name="GoblinParts" prob="9.1" />
+	<item name="GoblinStock" prob="9.1" />
+	<item name="GoblinReceiver" prob="9.1" />
+	<item name="GoblinBarrel" prob="9.1" />
+	<item name="CodgerParts" prob="9.1" />
+	<item name="CodgerGrip" prob="9.1" />
+	<item name="CodgerFrame" prob="9.1" />
+	<item name="CodgerCylinder" prob="9.1" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='cannedfood']">
+	<item name="Strawberries" prob="1.5" />
+	<item name="Cherries" prob="1.5" />
+	<item name="Peaches" prob="1.5" />
+	<item name="Peppers" prob="1.5" />
+	<item name="Pineapple" prob="1.5" />
+	<item name="PizzaKit" prob="1.5" />
+	<item name="CheeseSlices" count="5,25" prob="2.4" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='medicine']">
+	<item name="SnowberryExtract" count="1,5" prob="1.8" />
+	<item name="SnowberryBandage" count="1,5" prob="0.8" />
+	<item name="ZincTablets" count="40,100" prob="1.8" />
+	<item name="CopperPennies" count="40,100" prob="1.8" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='beverages']">
+	<item name="SnowberryJuice" prob="2.8" />
+	
+</append>
+	
+<append xpath="/lootcontainers/lootgroup[@name='groupAmmoRegular']">
+	<item name="RocketHER" count="5,25" prob="0.3" />
+	<item name="Goblin10mm" count="5,25" prob="0.3" />
+	<item name="CodgerCleanupFrag" count="5,25" prob="0.3" />
+	<item name="Dakota45" count="5,25" prob="0.5" />
+	<item name="OldCoot556" count="5,25" prob="0.5" />
+	
+</append>
+	
+<append xpath="/lootcontainers/lootgroup[@name='groupWeaponsRangedScaled']">
+	<item name="RoxyRocketLauncher" prob="0.1" />
+	<item name="RockTurret" prob="0.2" />
+	<item name="DirtyCodger" prob="0.1" />
+	<item name="RockGun" prob="0.4" />
+	<item name="DakotasPistol" prob="0.1" />
+	<item name="OldCootsHuntingRifle" prob="0.1" />
+	<item name="GoblinBlitz" prob="0.1" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupWeaponsRangedScaledTPlus']">
+	<item name="RoxyRocketLauncher" prob="0.1" />
+	<item name="RockTurret" prob="0.2" />
+	<item name="DirtyCodger" prob="0.1" />
+	<item name="RockGun" prob="0.4" />
+	<item name="DakotasPistol" prob="0.1" />
+	<item name="OldCootsHuntingRifle" prob="0.1" />
+	<item name="GoblinBlitz" prob="0.1" />
+	<item name="OldCootsSniperRifle" prob="0.1" />
+	
+</append>
+	
+<append xpath="/lootcontainers/lootgroup[@name='shamwaySafeFiller']">
+	<item name="CheeseSlices" count="5,25" prob="2.4" />
+	<item name="CopperPennies" count="40,100" prob="2.4" />
+	
+</append>
+
+<append xpath="/lootcontainers/lootgroup[@name='groupArmorT1']">
+	<item name="BanditGloves"/>
+	<item name="BanditHelmet"/>
+	<item name="BanditChestArmor"/>
+	<item name="BanditLegArmor"/>
+	<item name="BanditBoots"/>
+	
+</append>
+
+
+</CodgerFiles>

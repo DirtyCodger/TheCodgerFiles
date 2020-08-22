@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Codger Files" />
+		<Description value="Modlet that brings back old features, has new recipes and does some shit" />
+		<Author value="Codger" />
+		<Version value="1" />
+		<Website value="http://donthaveonejackass" />
+	</ModInfo>
+</xml>

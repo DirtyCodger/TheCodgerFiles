@@ -1,0 +1,84 @@
+<CodgerFiles>
+
+
+<append xpath="/traders/trader_item_groups/trader_item_group[@name='rareTools']">
+	<item name="DakotasSledgehammer" prob="1.9" />
+		
+</append>
+
+
+<append xpath="/traders/trader_item_groups/trader_item_group[@name='medicine']">
+	<item name="SnowberryExtract" count="5,25" prob="1.9" />
+	<item name="SnowberryBandage" count="1,3" prob="1.9" />
+	<item name="CopperPennies" count="40,100" prob="2.9" />
+	<item name="ZincTablets" count="40,100" prob="2.9" />
+		
+</append>
+
+<append xpath="/traders/trader_item_groups/trader_item_group[@name='ammo']">
+	<item name="RocketHER" count="1,3" prob="1.9" />
+	<item name="RoxyCasing" count="5,25" prob="1.9" />
+	<item name="RoxyTip" count="5,25" prob="1.9" />
+	<item name="CodgerCleanupFrag" count="1,3" prob="1.9" />
+	<item name="Dakota45" count="40,100" prob="2.9" />
+	<item name="Dakota45HP" count="5,25" prob="1.9" />
+	<item name="Dakota45AP" count="5,25" prob="1.9" />
+	<item name="OldCoot556" count="40,100" prob="2.9" />
+	<item name="OldCoot556HP" count="5,25" prob="1.9" />
+	<item name="OldCoot556AP" count="5,25" prob="1.9" />
+	<item name="Goblin10mm" count="40,100" prob="2.9" />
+	<item name="Goblin10mmHP" count="5,25" prob="1.9" />
+	<item name="Goblin10mmAP" count="5,25" prob="1.9" />
+		
+</append>
+
+<append xpath="/traders/trader_item_groups/trader_item_group[@name='weaponsGunsT3']">
+	<item name="RoxyRocketLauncher" prob="1.4" />
+	<item name="DirtyCodger" prob="1.8" />
+	<item name="RockTurret" prob="1.7" />
+	<item name="RockGun" prob="2.3" />
+	<item name="GoblinBlitz" prob="1.5" />
+	<item name="DakotasPistol" prob="1.8" />
+	<item name="OldCootsHuntingRifle" prob="1.6" />
+	<item name="OldCootsSniperRifle" prob="1.3" />
+		
+</append>
+
+<append xpath="/traders/trader_item_groups/trader_item_group[@name='cannedfood']">
+	<item name="Strawberries" count="1,3" prob="1.9" />
+	<item name="Cherries" count="1,3" prob="1.9" />
+	<item name="Peaches" count="1,3" prob="1.9" />
+	<item name="Peppers" count="1,3" prob="1.9" />
+	<item name="Pineapple" count="1,3" prob="1.9" />
+	<item name="PizzaKit" count="1,3" prob="1.9" />
+	<item name="CheeseSlices" count="5,25" prob="2.9" />
+		
+</append>
+
+<append xpath="/traders/trader_item_groups/trader_item_group[@name='preparedDrink']">
+	<item name="SnowberryJuice" count="1,3" prob="1.9" />
+		
+</append>
+
+<append xpath="/traders/trader_item_groups/trader_item_group[@name='weaponsGunParts']">
+	<item name="DakotaPistolParts" count="1,5" prob="2.9" />
+	<item name="DakotaPistolGrip" count="1,5" prob="2.9" />
+	<item name="DakotaPistolReceiver" count="1,5" prob="2.9" />
+	<item name="DakotaPistolBarrel" count="1,5" prob="2.9" />
+	<item name="OldCootParts" count="1,5" prob="2.9" />
+	<item name="OldCootStock" count="1,5" prob="2.9" />
+	<item name="OldCootBolt" count="1,5" prob="2.9" />
+	<item name="OldCootBarrel" count="1,5" prob="2.9" />
+	<item name="GoblinParts" count="1,5" prob="2.9" />
+	<item name="GoblinStock" count="1,5" prob="2.9" />
+	<item name="GoblinReceiver" count="1,5" prob="2.9" />
+	<item name="GoblinBarrel" count="1,5" prob="2.9" />
+	<item name="CodgerParts" count="1,5" prob="2.9" />
+	<item name="CodgerGrip" count="1,5" prob="2.9" />
+	<item name="CodgerFrame" count="1,5" prob="2.9" />
+	<item name="CodgerCylinder" count="1,5" prob="2.9" />
+		
+</append>
+
+	
+</CodgerFiles>

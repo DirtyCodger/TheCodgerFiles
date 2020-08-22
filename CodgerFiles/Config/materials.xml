@@ -1,0 +1,64 @@
+<Shrugs>
+
+<append xpath="/materials">
+
+<material id="PistolParts">
+	<property name="damage_category" value="metal"/>
+	<property name="surface_category" value="metal"/>
+	<property name="forge_category" value="DakotaPistolParts"/>
+	<property name="Experience" value="6"/>
+</material>
+
+<material id="PistolGrip">
+	<property name="damage_category" value="metal"/>
+	<property name="surface_category" value="metal"/>
+	<property name="forge_category" value="DakotaPistolGrip"/>
+	<property name="Experience" value="6"/>
+</material>
+
+<material id="PistolReceiver">
+	<property name="damage_category" value="metal"/>
+	<property name="surface_category" value="metal"/>
+	<property name="forge_category" value="DakotaPistolReceiver"/>
+	<property name="Experience" value="6"/>
+</material>
+
+<material id="PistolBarrel">
+	<property name="damage_category" value="metal"/>
+	<property name="surface_category" value="metal"/>
+	<property name="forge_category" value="DakotaPistolBarrel"/>
+	<property name="Experience" value="6"/>
+</material>
+
+<material id="HuntingRifleParts">
+	<property name="damage_category" value="metal"/>
+	<property name="surface_category" value="metal"/>
+	<property name="forge_category" value="OldCootParts"/>
+	<property name="Experience" value="6"/>
+</material>
+
+<material id="HuntingRifleStock">
+	<property name="damage_category" value="metal"/>
+	<property name="surface_category" value="metal"/>
+	<property name="forge_category" value="OldCootStock"/>
+	<property name="Experience" value="6"/>
+</material>
+
+<material id="HuntingRifleBolt">
+	<property name="damage_category" value="metal"/>
+	<property name="surface_category" value="metal"/>
+	<property name="forge_category" value="OldCootBolt"/>
+	<property name="Experience" value="6"/>
+</material>
+
+<material id="HuntingRifleBarrel">
+	<property name="damage_category" value="metal"/>
+	<property name="surface_category" value="metal"/>
+	<property name="forge_category" value="OldCootBarrel"/>
+	<property name="Experience" value="6"/>
+</material>
+
+</append>
+
+
+</Shrugs>
